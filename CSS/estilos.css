@@ -1,0 +1,29 @@
+.contenedor a{ /*selector combinado*/
+    text-decoration: none; /*elimina el subrayado de las ligas*/
+    color: indigo; /*cambia el color de la fuente*/
+    font-size: 20px; /*cambia el tamaño de la fuente*/
+    font-weight: bold; /*cambia el efecto del texto*/
+}
+
+H2{/*selector de tipo*/
+    color: gold;/*cambia el color de la fuente*/
+}
+
+p{/*selector de tipo*/
+    font-size: 18px;/*cambia el tamaño de la fuente*/
+    color: indigo;/*cambia el color de la fuente*/
+}
+
+h3{/*selector de tipo*/
+    color: indianred;/*cambia el color de la fuente*/
+    text-align: center; /*modifica la alineación del texto*/
+}
+
+.contenedor p{/*selector combinado*/
+    color: chocolate;/*cambia el color de la fuente*/
+}
+
+.contenedor2 a{/*selector combinado*/
+    color: brown;/*cambia el color de la fuente*/
+    text-decoration: none;/*elimina el subrayado de las ligas*/
+}
